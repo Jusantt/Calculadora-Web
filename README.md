@@ -15,6 +15,8 @@ Nesse projeto, exerci o papel de;
 - Manipulação do DOM, a captura de eventos como cliques em botões, o processamento de operações matemáticas e a exibição dinâmica dos resultados no visor da calculadora.
 
 
+Quer ver em ação? Aqui está o link dele em funcionamento no Vercel: https://calculadora-web-phi.vercel.app
+
 Obrigada por acessar meu projeto!
 
 > Julia Santana.
