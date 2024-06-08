@@ -1,5 +1,5 @@
 Olá!
-Esse foi um dos primeiros projetos que eu criei durante meu treino em Java. Já estava um tempo no meu computador, então resolvi publicar ele depois
+Esse foi um dos primeiros projetos que eu criei durante meu treino em Javascript. Já estava um tempo no meu computador, então resolvi publicar ele depois
 de muito tempo.
 
 Sinta-se à vontade pra usá-lo como base para seus estudos, não tá EXTREMAMENTE perfeito pois é um pouco antigo, mas é bastante funcional! :D
